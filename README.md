@@ -81,7 +81,7 @@ This source directories are as follows:
 1. Clone project repo
 
     ```
-    git clone https://github.boschdevcloud.com/SDV-Playground/IDS.git](https://github.boschdevcloud.com/SDV-Playground/GAN_IDS.git
+    git clone https://github.com/phatnguyen1510/gan-ids.git
     ```
 
 2. Set up a virtual environment
